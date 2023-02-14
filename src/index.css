@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.image{
+
+ width:550px;
+ margin-left:350px;
+ margin-top: 20px;
+}
+.search{
+  border: 1px solid black;
+  width: 30%;
+  height: 55px;
+  margin-left: 400px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.search > .Search {
+  height: 49px;
+  /* height: 100%; */
+  width: 400px;
+  border-radius: 45px;
+  border: none;
+  
+}
+#buttons {
+  margin-left: 450px;
+  margin-top: 10px;
+}
+
+
+#buttons > .Search {
+  font-weight: bolder;
+  width: 150px;
+  height: 70px;
+  margin-right: 10px;
+  /* border: 1px solid red; */
+}
+#buttons > .Lucky {
+  font-weight: bolder;
+  width: 150px;
+  height: 70px;
+  /* border: 1px solid red; */
+}
+
+h2 {
+  font-weight: bold;
+  margin-left: 440px;
+}
+
+#indian {
+  color: blue;
+}
